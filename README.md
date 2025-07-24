@@ -46,6 +46,5 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tersom&show_icons=true&locale=en" alt="tersom" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tersom&show_icons=true&locale=en&layout=compact" alt="tersom" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tersom&" alt="tersom" /></p>
