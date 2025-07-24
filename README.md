@@ -31,8 +31,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+<img align="left" src="https://camo.githubusercontent.com/1523c0a9e6cf3aaa2f550c2c6feea76e0a2e38bbed26c33db695d638e12190e9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d746572736f6d2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="tersom" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=tersom&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/acd867f3f67f52c1c02c93fbbfeb22df6378f3b4f2d97464c4d8007ab101db97/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746572736f6d26" alt="tersom" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=tersom&amp;" style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/terryumay/)
