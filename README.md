@@ -21,18 +21,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=TerSom&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
